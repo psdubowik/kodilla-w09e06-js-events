@@ -1,0 +1,24 @@
+{
+    "name": "kodillaFE_week09ex06_js_events",
+    "version": "1.0.0",
+    "description": "Events in JS",
+    "main": "index.js",
+    "scripts": {
+      "test": "test"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/psdubowik/kodilla-w09e06-js-events.git"
+    },
+    "keywords": [
+      "js",
+      "events"
+    ],
+    "author": "PSD",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/psdubowik/kodilla-w09e06-js-events/issues"
+    },
+    "homepage": "https://github.com/psdubowik/kodilla-w09e06-js-events#readme"
+  }
+  
