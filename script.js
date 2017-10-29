@@ -6,5 +6,5 @@ add.addEventListener("click", function(e){
     var indexOfLiItem = document.getElementsByTagName("li");
     element.innerHTML = "item " + indexOfLiItem.length;
     list.appendChild(element);
-    element.className += "list-group-item";
+    element.classList.add("list-group-item");
 });
